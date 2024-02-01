@@ -1,4 +1,7 @@
-<h1 align="center" style="background-color:Blue;">Hi 👋, I'm kalana kavinda</h1>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+<h1 align="center">Hi 👋, I'm kalana kavinda</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kalana8&label=Profile%20views&color=0e75b6&style=flat" alt="kalana8" /> </p>
