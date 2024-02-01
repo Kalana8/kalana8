@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm kalana kavinda</h1>
+<h1 align="center" style="background-color:Blue;">Hi 👋, I'm kalana kavinda</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalana8&label=Profile%20views&color=0e75b6&style=flat" alt="kalana8" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kalana8&label=Profile%20views&color=0e75b6&style=flat" alt="kalana8" /> </p>
 
 <p align="left"> <a href="https://twitter.com/kalana_kavinda_" target="blank"><img src="https://img.shields.io/twitter/follow/kalana_kavinda_?logo=twitter&style=for-the-badge" alt="kalana_kavinda_" /></a> </p>
 
