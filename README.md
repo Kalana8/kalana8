@@ -10,11 +10,17 @@
 
 - 🔭 I’m currently Studying on **Cardiff met university**
 
-- 🌱 I’m currently learning **Java Python C++ C# JavaScript**
+- 🌱 I’m currently learning **Java Python C++ C# JavaScript Advanced React.js patterns Full-Stack Web Development**
 
 - 📫 How to reach me **kalanakavinda8@gmail.com**
 
 - ⚡ Fun fact **Call me as kalan**
+- 🛠️ Tech Stack
+**Languages: JavaScript, HTML, CSS**
+**Frameworks & Libraries: React.js, Tailwind CSS, Bootstrap**
+**Backend & Databases: PHP, SQL**
+**Tools & Platforms: Git, GitHub, Figma, Android Studio, WordPress**
+**Other Skills: UI/UX Design, Mobile App Development (Java), Web Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
