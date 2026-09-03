@@ -27,7 +27,7 @@
 <h1 align="center">Hi 👋, I'm Kalana Kavinda</h1>
 
 <h3 align="center">
-Frontend Developer • UI/UX Designer • Undergraduate Software Engineer
+𝖥𝗎𝗅𝗅-𝖲𝗍𝖺𝖼𝗄 𝖤𝗇𝗀𝗂𝗇𝖾𝖾𝗋
 </h3>
 
 ---
